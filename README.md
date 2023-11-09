@@ -748,7 +748,7 @@ Get user in elasticsearch extension using query
       "must": [
         {
           "match": {
-            "email": "muhammadrizwaneng@gmail.com"
+            "email": "test@gmail.com"
           }
         }
       ]
